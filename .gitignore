@@ -1,5 +1,6 @@
 # Mac garbage
 .DS_Store
+*/.DS_Store
 
 # IPython checkpoint filse
 .ipynb_checkpoints
